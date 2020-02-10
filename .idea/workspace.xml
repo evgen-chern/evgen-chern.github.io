@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0be0301-f352-46ef-911a-f51d262f8825" name="Default Changelist" comment="" />
+    <list default="true" id="0e37b24a-68c3-4bfa-944a-b0505c271a9b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,20 +13,10 @@
       <executable />
     </execution>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1XDv6rjuGrn27EUaOOr3GXjAeQh" />
+  <component name="ProjectId" id="1TwRXl52cbFZNP4PHse3vbqEWIQ" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,12 +35,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f0be0301-f352-46ef-911a-f51d262f8825" name="Default Changelist" comment="" />
-      <created>1580593307636</created>
+      <changelist id="0e37b24a-68c3-4bfa-944a-b0505c271a9b" name="Default Changelist" comment="" />
+      <created>1574369212656</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580593307636</updated>
-      <workItem from="1580593308801" duration="30535000" />
+      <updated>1574369212656</updated>
+      <workItem from="1574369213802" duration="4067000" />
+      <workItem from="1575924868466" duration="599000" />
     </task>
     <servers />
   </component>
