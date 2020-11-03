@@ -849,6 +849,7 @@ h3.woo_title_text {
   -ms-grid-columns: 1fr 1fr 1fr;
       grid-template: 1fr/1fr 1fr 1fr;
   justify-items: center;
+  padding: 5px;
   -webkit-box-ordinal-group: 3;
       -ms-flex-order: 2;
           order: 2;
